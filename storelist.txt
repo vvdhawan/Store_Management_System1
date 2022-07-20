@@ -1,0 +1,23 @@
+Sr No.|item|Rate
+1|Farsaan/namkeen|120
+2|Biscuits|30
+3|Chocolates|20
+4|Maida|40
+5|Sugar|36
+6|Sabudana|60
+7|Shengdana|110
+8|Rava|32
+9|Salt|30
+10|Wheat Floor|35
+11|Dishwash|45
+12|Colgate|55
+13|SantoorCombopack|78
+14|Detergent Powder|145
+15|Agarbatti Bigpack|60
+16|Shampoo|10
+17|rose water|20
+18|nirma|82
+19|brush|90
+20|Turmeric|134
+21|Lux Soap|15
+22|Table Cloth|46
